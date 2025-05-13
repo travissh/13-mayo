@@ -1,6 +1,18 @@
-* {
-  
-}
 .imge {
   height: 300px;
+}
+.texto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body { 
+  height: 100vh;
+  font-family: sans-serif;
+  background: rgb(43, 43, 43); 
+  color: white;
+}
+h1 {
+  display: flex;
+  justify-content: center;
 }
